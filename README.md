@@ -7,15 +7,16 @@
 
 <h3 align="center">🌟 Expertise</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-Expert-blue" />
+  <img src="https://img.shields.io/badge/Java-Intermediate-blue" />
   <img src="https://img.shields.io/badge/React-Intermediate-lightblue" />
-  <img src="https://img.shields.io/badge/HTML-Expert-orange" />
-  <img src="https://img.shields.io/badge/CSS-Expert-blueviolet" />
-  <img src="https://img.shields.io/badge/Python-Intermediate-yellowgreen" />
+  <img src="https://img.shields.io/badge/HTML-Proficient-orange" />
+  <img src="https://img.shields.io/badge/CSS-Proficient-blueviolet" />
+  <img src="https://img.shields.io/badge/Python-Beginner-yellowgreen" />
   <img src="https://img.shields.io/badge/MongoDB-Intermediate-green" />
-  <img src="https://img.shields.io/badge/MySQL-Expert-blue" />
-  <img src="https://img.shields.io/badge/NoSQL-Intermediate-red" />
-  <img src="https://img.shields.io/badge/SpringBoot-Intermediate-lightgreen" />
+  <img src="https://img.shields.io/badge/MySQL-Proficient-blue" />
+  <img src="https://img.shields.io/badge/NoSQL-Skilled-red" />
+  <img src="https://img.shields.io/badge/SpringBoot-Beginner-lightgreen" />
+  <img src="https://img.shields.io/badge/Bootstrap-Intermediate-lightgreen" />
 </p>
 
 <h3 align="center">📚 Bildung</h3>
