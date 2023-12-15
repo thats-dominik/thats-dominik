@@ -122,7 +122,7 @@ I'm Dominik and I'm currently attending IMS. I enjoy programming in the frontend
     </li>
   <li>
     <p align="center">
-    At the moment I am working with <a href="https://github.com/klionCH">klionCH</a> & <a href="https://github.com/ericluec">EricLuec</a> on an application <a href="https://www.github.com/Tune-Map/">TuneMap ©</a> (remains private at the moment)
+    At the moment I am working on an application <a href="https://www.github.com/Tune-Map/">TuneMap ©</a> with <a href="https://github.com/klionCH">klionCH</a> & <a href="https://github.com/ericluec">EricLuec</a> (remains private at the moment)
     </p>
   </li>
 </ul>
