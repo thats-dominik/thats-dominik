@@ -1,4 +1,5 @@
 <h2 align="center">👋 I Am Dominik</h2>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thats-dominik&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view-counter" /> </p>
 <p align="center">
 I'm Dominik and I'm currently attending IMS. I enjoy programming in the frontend and am currently learning how to programme in the backend. I enjoy working on projects (I am currently working on <a href="https://www.github.com/Tune-Map/">one</a>) and I am a passionate developer. I want to use and learn other programming languages and frameworks in the future. <br> I also like to be outdoors and am active in my spare time. I used to be passionate about photography, especially cars, nature and the night sky. <br> My goal is to continue my <a href="https://www.github.com/Tune-Map/">project</a> as focussed and accurate as possible. It is very time consuming and takes a lot of time and effort. <br> If you have any questions or other needs, please visit the contact bar.
 </p>
