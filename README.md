@@ -111,7 +111,7 @@ I'm Dominik and I'm currently attending IMS. I enjoy programming in the frontend
     <b>Zürcher Lehrbetriebsverband ICT</b><br>
   </li>
     </ul>
-  Completed Semsters: <b>3</b>
+  Completed Semsters: <b>4</b>
 </div>
 
 <h2 align="center">🔭 Latest News</h2>
